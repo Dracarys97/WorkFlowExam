@@ -7,3 +7,5 @@ v1.0.1
 
 feature1
 
+feature2
+
